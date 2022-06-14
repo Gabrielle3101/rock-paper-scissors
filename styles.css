@@ -497,6 +497,16 @@ body {
     }
 }
 
+@media only screen and (max-width: 425px) {
+    .rules-btn {
+        bottom: 10px;
+    }
+
+    .attribution {
+        bottom: 0px;
+    }
+}
+
 @media only screen and (max-width: 350px) {
     .game-card.scissors {
         left: 100px;
